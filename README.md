@@ -3,6 +3,8 @@
 
 This project is a Sales Analysis Dashboard built to visualize and analyze business performance across multiple dimensions such as occasions, categories, products, time, and geography. It provides actionable insights to help stakeholders understand customer behavior, track key metrics, and make data-driven decisions.
 
+<img width="1868" height="786" alt="Screenshot 2025-08-22 214859" src="https://github.com/user-attachments/assets/2df5ffa0-77b1-41d3-a766-dfc6c8ea2b3b" />
+
 🚀 Key Features
 
 KPI Tracking:
@@ -41,4 +43,4 @@ Helps in inventory planning by highlighting top-selling products.
 
 Supports targeted marketing strategies based on regional trends.
 
-<img width="1868" height="786" alt="Screenshot 2025-08-22 214859" src="https://github.com/user-attachments/assets/2df5ffa0-77b1-41d3-a766-dfc6c8ea2b3b" />
+
